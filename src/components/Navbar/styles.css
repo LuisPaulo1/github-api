@@ -1,0 +1,16 @@
+.main-nav {
+  padding-left: 40px;    
+  height: 62px;  
+}
+
+.main-nav a:hover {
+  color: #FFF;  
+}
+
+.nav-logo-text {      
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  color: #FFF;    
+  margin-top: 10px;
+}
